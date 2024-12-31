@@ -1,2 +1,6 @@
-# dio_treinamento_nao_supervisionado_machine_learningo
-# dio_treinamento_nao_supervisionado_machine_learning
+# DIO - Treinamento Não Supervisionado em Machine Learning
+
+## Treinamneto Não-Supervisionado
+
+## Algoritmo Não Supervisionado K Means
+
